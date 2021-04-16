@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Security.Cryptography;
-using UnityEditor.VersionControl;
 using System;
 using System.Text;
 public class CryptoTests : MonoBehaviour
