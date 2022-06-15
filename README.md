@@ -2,14 +2,14 @@
 WebSocket Multiplayer Puzzle
   
 ## Sobre el proyecto
-![Implementar Websocket](images/00_implementarwebsocket.PNG)
-Implementar Websocket
-Para la comunicación de clientes y servidores
+|![Implementar Websocket](images/00_implementarwebsocket.PNG)|![](images/01_utilizarcifradoSSL.PNG)|![](images/02_nodejsWebservice.PNG)|![](images/03_InterconexionServidores.PNG)|![](images/04_ClienteSuplantador.PNG)|
+| Implementar Websocket | | | | |
+| Para la comunicación de clientes y servidores | | | | |
 
-![](images/01_utilizarcifradoSSL.PNG)
-![](images/02_nodejsWebservice.PNG)
-![](images/03_InterconexionServidores.PNG)
-![](images/04_ClienteSuplantador.PNG)
+
+
+
+
 
 ![](images/06_Conexiones.PNG)
 
