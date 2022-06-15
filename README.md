@@ -11,10 +11,15 @@ WebSocket Multiplayer Puzzle
 ![](images/06_Conexiones.PNG)
 
 ## Elementos de juego
-Los tres jugadores deben trabajar en equipo para completar cada uno de los tres niveles. Cada nivel se gana llegando a la moneda
+Los tres jugadores deben trabajar en equipo para completar cada uno de los tres niveles. 
+Cada nivel se gana llegando a la moneda
+
 Multijugador: para exactamente 3 jugadores
+
 Tipo de juego: puzzle
+
 Vista: isométrica
+
 ![](images/07_GameElements.png)
 
 ## Diseño de niveles
