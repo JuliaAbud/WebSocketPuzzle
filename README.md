@@ -2,15 +2,15 @@
 WebSocket Multiplayer Puzzle
   
 ## Sobre el proyecto
-![](images/00_implementarwebsocket.PNG)
-![](images/01_utilizarcifradoSSL.PNG)
-![](images/02_nodejsWebservice.PNG)
-![](images/03_InterconexionServidores.PNG)
-![](images/04_ClienteSuplantador.PNG)
+![](images/00_implementarwebsocket.PNG | width=50)
+![](images/01_utilizarcifradoSSL.PNG | width=50)
+![](images/02_nodejsWebservice.PNG | width=50)
+![](images/03_InterconexionServidores.PNG | width=50)
+![](images/04_ClienteSuplantador.PNG | width=50)
 
-![](images/06_Conexiones.PNG)
+![](images/06_Conexiones.PNG | width=300)
 
-![](images/07_GameElements.png)
+![](images/07_GameElements.png | width=300)
 
 ![](images/nivel1.PNG)
 ![](images/nivel2.PNG)
